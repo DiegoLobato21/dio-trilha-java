@@ -7,7 +7,7 @@ public class Terminal {
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.println("Digite seu Nomeee");
+        System.out.println("Digite seu Nome");
             String nome =scanner.next();
 
         System.out.println("Digite seu sobrenome");
